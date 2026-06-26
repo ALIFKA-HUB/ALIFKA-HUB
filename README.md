@@ -141,39 +141,8 @@ const alifka = {
 
 </div>
 
-<br>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 GITHUB TROPHIES                                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" /> &nbsp; GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ALIFKA-HUB&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="95%" />
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SNAKE                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> &nbsp; Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALIFKA-HUB/ALIFKA-HUB/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALIFKA-HUB/ALIFKA-HUB/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ALIFKA-HUB/ALIFKA-HUB/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🤝 LET'S CONNECT                                                          -->
