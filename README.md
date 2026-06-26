@@ -142,7 +142,25 @@ const alifka = {
 </div>
 
 
+<br>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🐍 CONTRIBUTION SNAKE                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> &nbsp; Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ALIFKA-HUB/ALIFKA-HUB/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ALIFKA-HUB/ALIFKA-HUB/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ALIFKA-HUB/ALIFKA-HUB/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<br>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🤝 LET'S CONNECT                                                          -->
