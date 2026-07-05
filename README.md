@@ -102,16 +102,17 @@ const alifka = {
 
 ### 🤖 AI & Productivity
 
-<img src="https://img.shields.io/badge/Gemini-24292e?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-24292e?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Antigravity-24292e?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Copilot-24292e?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-24292e?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-24292e?style=for-the-badge&logo=cursor&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Hugging_Face-24292e?style=for-the-badge&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-24292e?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Obsidian-24292e?style=for-the-badge&logo=obsidian&logoColor=white" />
+<a href="#">
+  <img src="icons/gemini.svg" width="48" height="48" title="Gemini" />
+  <img src="icons/claude.svg" width="48" height="48" title="Claude" />
+  <img src="icons/antigravity.svg" width="48" height="48" title="Antigravity" />
+  <img src="icons/copilot.svg" width="48" height="48" title="Copilot" />
+  <br>
+  <img src="icons/cursor.svg" width="48" height="48" title="Cursor" />
+  <img src="icons/huggingface.svg" width="48" height="48" title="Hugging Face" />
+  <img src="icons/notion.svg" width="48" height="48" title="Notion" />
+  <img src="icons/obsidian.svg" width="48" height="48" title="Obsidian" />
+</a>
 
 </div>
 
