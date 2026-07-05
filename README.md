@@ -225,33 +225,3 @@ const alifka = {
 <a href="https://github.com/ALIFKA-HUB" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-<br><br>
-
-<!-- ─── RANDOM DEV QUOTE ──────────────────────────────────────────────────── -->
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="70%" />
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 💜 FOOTER                                                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,25:00d4ff,50:6c3ce9,75:1a1b27,100:0d1117&height=120&section=footer" width="100%" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="20" />
-&nbsp; **If you like what you see, consider giving a ⭐!** &nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="20" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20AI-6c3ce9?style=flat-square" alt="Made with Love & AI" />
-
-</div>
