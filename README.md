@@ -7,14 +7,14 @@
 
 <!-- ─── HERO SECTION ──────────────────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:24292e,100:586069&height=220&section=header&text=ALIFKA-HUB&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=AI-Empowered%20Full-Stack%20Developer&descSize=18&descColor=cccccc&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:24292e,100:586069&height=220&section=header&text=ALIFKA-HUB&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descSize=18&descColor=cccccc&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- ─── ANIMATED TYPING SVG ───────────────────────────────────────────────── -->
 
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Building+the+future+with+AI+%2B+Code;%F0%9F%8E%A8+Design+%E2%86%92+Develop+%E2%86%92+Deploy+%E2%86%92+Repeat;%E2%9A%A1+JavaScript+%7C+React+%7C+Node.js+%7C+Figma" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Exploring+new+technologies+%26+building+things;%F0%9F%92%BB+Crafting+clean+and+responsive+web+apps;%E2%9A%A1+JavaScript+%7C+React+%7C+Node.js" alt="Typing SVG" />
 </a>
 
 <br>
@@ -44,27 +44,27 @@
 ```js
 const alifka = {
     pronouns: "he" | "him",
-    role: "AI-Empowered Full-Stack Developer",
+    role: "Full-Stack Developer",
     location: "Indonesia 🇮🇩",
-    currentFocus: "Building creative web experiences powered by AI",
+    currentFocus: "Building creative and interactive web apps",
     techStack: {
         frontend: ["JavaScript", "React"],
         backend: ["Node.js"],
         design: ["Figma"],
-        ai: ["Gemini", "Claude", "Antigravity"],
+        tools: ["VS Code", "Git", "Postman"],
     },
-    funFact: "Powered by AI, caffeine, and good music. ☕🎵",
-    motto: "Code smart, not hard — let AI handle the boring stuff."
+    funFact: "Powered by caffeine, curiosity, and good music. ☕🎵",
+    motto: "Code smart, keep it simple, and never stop learning."
 };
 ```
 
 <br>
 
 - 🔭 &nbsp; Currently working on **creative full-stack projects**
-- 🌱 &nbsp; Learning **advanced AI integration** & **modern web architectures**
+- 🌱 &nbsp; Learning **modern web architectures** & **backend optimization**
 - 🤝 &nbsp; Open to collaborate on **innovative open-source projects**
 - 🎯 &nbsp; Goal: **Build tools that make developers' lives easier**
-- ⚡ &nbsp; Fun fact: **Powered by AI, caffeine, and good music. When I'm not coding, I'm probably playing sports or hanging out.**
+- ⚡ &nbsp; Fun fact: **Powered by caffeine and good music. When I'm not coding, I'm probably hanging out or trying new tech.**
 
 <br>
 
@@ -106,7 +106,7 @@ const alifka = {
 
 <br>
 
-### 🤖 AI & Productivity
+### 🤖 Productivity Tools
 
 <div>
   <img src="icons/gemini.svg" width="48" height="48" title="Gemini" />
