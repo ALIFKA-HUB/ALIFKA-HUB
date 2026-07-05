@@ -133,6 +133,7 @@ const alifka = {
 
 <div align="center">
 
+<!-- TEMPORARY HIDDEN DUE TO SERVER ERROR (github-readme-stats is down)
 <a href="https://github.com/ALIFKA-HUB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALIFKA-HUB&show_icons=true&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true&v=1" alt="GitHub Stats" />
 </a>
@@ -140,6 +141,7 @@ const alifka = {
 <a href="https://github.com/ALIFKA-HUB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIFKA-HUB&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8&v=1" alt="Top Languages" />
 </a>
+-->
 
 <br><br>
 
