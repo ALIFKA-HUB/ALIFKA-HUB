@@ -102,16 +102,18 @@ const alifka = {
 
 ### 🤖 AI & Productivity
 
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Antigravity-0d1117?style=for-the-badge&logo=google&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=0d1117" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
+<a href="#">
+  <img src="https://img.shields.io/badge/-%20-24292e?style=for-the-badge&logo=googlegemini&logoColor=white" title="Gemini" />
+  <img src="https://img.shields.io/badge/-%20-24292e?style=for-the-badge&logo=anthropic&logoColor=white" title="Claude" />
+  <img src="https://img.shields.io/badge/-%20-24292e?style=for-the-badge&logo=google&logoColor=white" title="Antigravity" />
+  <img src="https://img.shields.io/badge/-%20-24292e?style=for-the-badge&logo=githubcopilot&logoColor=white" title="Copilot" />
+  <img src="https://img.shields.io/badge/-%20-24292e?style=for-the-badge&logo=openai&logoColor=white" title="ChatGPT" />
+  <img src="https://img.shields.io/badge/-%20-24292e?style=for-the-badge&logo=cursor&logoColor=white" title="Cursor" />
+  <br>
+  <img src="https://img.shields.io/badge/-%20-24292e?style=for-the-badge&logo=huggingface&logoColor=white" title="Hugging Face" />
+  <img src="https://img.shields.io/badge/-%20-24292e?style=for-the-badge&logo=notion&logoColor=white" title="Notion" />
+  <img src="https://img.shields.io/badge/-%20-24292e?style=for-the-badge&logo=obsidian&logoColor=white" title="Obsidian" />
+</a>
 
 </div>
 
