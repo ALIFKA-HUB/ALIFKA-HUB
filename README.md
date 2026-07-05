@@ -76,8 +76,26 @@ const alifka = {
 
 <div align="center">
 
+### 🎨 Frontend & Design
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,bootstrap,jquery,figma,nodejs,express,py,django,php,java,cpp,mongodb,mysql,postgres,firebase,supabase,gcp,docker,vercel,netlify,vscode,git,github,githubactions,postman,eslint,windows,npm&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,bootstrap,jquery,figma&perline=6" />
+</a>
+
+<br>
+
+### ⚙️ Backend & Database
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,php,java,cpp,mongodb,mysql,postgres,firebase,supabase&perline=6" />
+</a>
+
+<br>
+
+### 🧰 Cloud & Dev Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=gcp,docker,vercel,netlify,vscode,git,github,githubactions,postman,eslint,windows,npm&perline=6" />
 </a>
 
 <br>
