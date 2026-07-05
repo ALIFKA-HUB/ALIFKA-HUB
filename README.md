@@ -79,7 +79,9 @@ const alifka = {
 ### 🎨 Frontend & Design
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,vite,tailwind,bootstrap,jquery,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=vue,vite,tailwind,bootstrap,jquery,figma" />
 </a>
 
 <br>
@@ -87,7 +89,9 @@ const alifka = {
 ### ⚙️ Backend & Database
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,php,java,cpp,mongodb,mysql,postgres,firebase,supabase&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,php,java" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=cpp,mongodb,mysql,postgres,firebase,supabase" />
 </a>
 
 <br>
@@ -95,14 +99,16 @@ const alifka = {
 ### 🧰 Cloud & Dev Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=gcp,docker,vercel,netlify,vscode,git,github,githubactions,postman,eslint,windows,npm&perline=6" />
+  <img src="https://skillicons.dev/icons?i=gcp,docker,vercel,netlify,vscode,git" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=github,githubactions,postman,windows,npm" />
 </a>
 
 <br>
 
 ### 🤖 AI & Productivity
 
-<a href="#">
+<div>
   <img src="icons/gemini.svg" width="48" height="48" title="Gemini" />
   <img src="icons/claude.svg" width="48" height="48" title="Claude" />
   <img src="icons/antigravity.svg" width="48" height="48" title="Antigravity" />
@@ -112,7 +118,7 @@ const alifka = {
   <img src="icons/huggingface.svg" width="48" height="48" title="Hugging Face" />
   <img src="icons/notion.svg" width="48" height="48" title="Notion" />
   <img src="icons/obsidian.svg" width="48" height="48" title="Obsidian" />
-</a>
+</div>
 
 </div>
 
