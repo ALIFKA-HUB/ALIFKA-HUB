@@ -134,11 +134,11 @@ const alifka = {
 <div align="center">
 
 <a href="https://github.com/ALIFKA-HUB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALIFKA-HUB&show_icons=true&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALIFKA-HUB&show_icons=true&bg_color=0d1117&title_color=ffffff&icon_color=8b949e&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true&v=1" alt="GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/ALIFKA-HUB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIFKA-HUB&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIFKA-HUB&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8&v=1" alt="Top Languages" />
 </a>
 
 <br><br>
@@ -146,7 +146,7 @@ const alifka = {
 <!-- ─── STREAK STATS ──────────────────────────────────────────────────────── -->
 
 <a href="https://github.com/ALIFKA-HUB">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIFKA-HUB&background=0d1117&ring=8b949e&fire=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIFKA-HUB&background=0d1117&ring=8b949e&fire=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d&v=1" alt="GitHub Streak" />
 </a>
 
 <br><br>
@@ -154,7 +154,7 @@ const alifka = {
 <!-- ─── ACTIVITY GRAPH ────────────────────────────────────────────────────── -->
 
 <a href="https://github.com/ALIFKA-HUB">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALIFKA-HUB&bg_color=0d1117&color=ffffff&line=8b949e&point=ffffff&area=true&area_color=24292e&hide_border=false&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALIFKA-HUB&bg_color=0d1117&color=ffffff&line=8b949e&point=ffffff&area=true&area_color=24292e&hide_border=false&custom_title=📈%20Contribution%20Graph&v=1" alt="Activity Graph" width="95%" />
 </a>
 
 </div>
