@@ -148,7 +148,7 @@ const alifka = {
 <!-- ─── STREAK STATS ──────────────────────────────────────────────────────── -->
 
 <a href="https://github.com/ALIFKA-HUB">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIFKA-HUB&background=0d1117&ring=8b949e&fire=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIFKA-HUB&background=0d1117&ring=8b949e&fire=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d&v=2" alt="GitHub Streak" />
 </a>
 
 <br><br>
@@ -156,7 +156,7 @@ const alifka = {
 <!-- ─── ACTIVITY GRAPH ────────────────────────────────────────────────────── -->
 
 <a href="https://github.com/ALIFKA-HUB">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALIFKA-HUB&bg_color=0d1117&color=ffffff&line=8b949e&point=ffffff&area=true&area_color=24292e&hide_border=false&custom_title=📈%20Contribution%20Graph&v=1" alt="Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALIFKA-HUB&bg_color=0d1117&color=ffffff&line=8b949e&point=ffffff&area=true&area_color=24292e&hide_border=false&custom_title=📈%20Contribution%20Graph&v=2" alt="Activity Graph" width="95%" />
 </a>
 
 </div>
